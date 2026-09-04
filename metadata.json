@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management & Payroll System",
+  "description": "Employee management and payroll system with normalized SQL schema, Python OOP models, CRUD operations, overtime calculation, and department analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
